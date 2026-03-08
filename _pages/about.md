@@ -80,7 +80,7 @@ I have been fortunate to collaborate with a range of internal and external partn
 Contact
 -------
 
-- Email: zhenhua (dot) yu (at) abdn (dot) ac (dot) uk
-- Address: Department of Computer Science, University of Aberdeen,Aberdeen, AB24 3UE, UK
+- Email: Zhenhua.yu@abdn.ac.uk
+- Address: Department of Computer Science, University of Aberdeen, Aberdeen, AB24 3UE, UK
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a"></script>
