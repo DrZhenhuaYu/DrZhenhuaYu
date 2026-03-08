@@ -16,16 +16,6 @@ I have supervised and co-supervised students at various universities and continu
 ## **Current team**
 ### PhD Students:
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Xiao Ji  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
-
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
 Cong Liu  <br />
 Mrs  Bsc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
@@ -41,8 +31,17 @@ Mrs  Bsc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 [[website]](https://danfergo.github.io/geltip/)
 <br />
+<br />
+<br />
 
 <br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+Xiao Ji  <br />
+Mrs  Bsc <br />
+The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+[[website]](https://danfergo.github.io/geltip/)
+<br />
+
 <br />
 ## **Research Assistant**
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; text-align: center;">
@@ -135,22 +134,15 @@ I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.
 
 - As the assistant supervisor (co-supervise with Prof. Ravi Vaidyanathan )
   
-  - [Zehao Liu](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (PhD student)
+  - [Zehao Liu](https://scholar.google.com/citations?hl=en&user=GT8u5k8AAAAJ&view_op=list_works&sortby=pubdate) (PhD student)
     
-
-  
-  - [Shibo Jing](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (PhD student)
+  - [Shibo Jing](https://scholar.google.com/citations?hl=en&user=rKKYhKMAAAAJ&view_op=list_works&sortby=pubdate) (PhD student)
     
-    - Topic: Visual Scene Understanding and Tracking from Traffic Cameras  
-    - Now a Software Engineer at **Google**
-  
-  - [](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (PhD student)
+  - [Filip Paszkiewicz](https://www.linkedin.com/in/filip-paszkiewicz-2a156a151/?originalSubdomain=uk) (PhD student)
     
-    - Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces     
-    - Now a Project Engineer at Kongsberg Defence & Aerospace
       
 - MSc students
-
+	- Xiao Jin (2023 - 2025, BSc, MSc)
 - BSc students
 
 	- Yang Zhang (2023 - 2024, BSc)
