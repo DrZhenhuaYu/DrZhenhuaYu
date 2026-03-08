@@ -17,6 +17,13 @@ I have supervised and co-supervised students at various universities and continu
 
 ## **Current team**
 
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation <br />
+D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020. <br />
+[[paper]](https://arxiv.org/abs/2008.05404) [[website]](https://danfergo.github.io/geltip/) [[STL files]](https://danfergo.github.io/geltip/geltip2020_parts.zip)
+
+
+
 ### University of Exeter:
 
 At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**, where I supervise PhD, MSc, and undergraduate students.
