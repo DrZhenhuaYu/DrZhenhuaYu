@@ -42,15 +42,19 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 [[website]](https://danfergo.github.io/geltip/)
 <br />
 
+<br />
+<br />
 ## **Research Assistant**
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; text-align: center;">
 
 <div>
 <img width="180" src="{{ site.url }}/images/people/Ning.jpg">
 <br>
 <b>Boyang Zhao</b><br>
 University of Aberdeen<br>
+<p style="font-size:14px;">
+Research focuses on tactile sensing and robotic perception for dexterous manipulation.
+</p>
 <a href="https://danfergo.github.io/geltip/">Website</a>
 </div>
 
@@ -59,6 +63,9 @@ University of Aberdeen<br>
 <br>
 <b>Zefeng Yuan</b><br>
 University of Aberdeen<br>
+<p style="font-size:14px;">
+Working on wearable sensing systems and AI-enabled healthcare monitoring.
+</p>
 <a href="https://danfergo.github.io/geltip/">Website</a>
 </div>
 
@@ -67,19 +74,13 @@ University of Aberdeen<br>
 <br>
 <b>Qinghao Yan</b><br>
 University of Aberdeen<br>
+<p style="font-size:14px;">
+Research interests include soft robotics and multimodal perception for intelligent systems.
+</p>
 <a href="https://danfergo.github.io/geltip/">Website</a>
 </div>
 
-<div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
-<br>
-<b>Another Student</b><br>
-University of Aberdeen<br>
-<a href="#">Website</a>
 </div>
-
-</div>
-
 ## **Alumni**
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 
