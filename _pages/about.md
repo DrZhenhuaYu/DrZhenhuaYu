@@ -36,18 +36,6 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
 
-
-**Call for papers**
--------
-
-You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
-
-- **ICRA2026 Workshop Pedestrian Behavior Prediction**. More details can be found [here](https://workshop-pbp2026.github.io/). Paper submission deadline: Mar 20, 2026
-
-- **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
-
-- **Remote Sensing** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 30 Aug 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  
-
 News
 ----
 
