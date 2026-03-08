@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-If you are interested in joining my group at the University of Exeter as a PhD student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
+If you are interested in joining my group at the University of Aberdeen as a PhD student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
 
 Postdoc Opportunities
 -------------
@@ -21,20 +21,13 @@ PhD Opportunities
 
 **Current opportunities**
 
-NOTE: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **<span style="color: red;">please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>** 
-
-- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
-
+NOTE: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student,  please email me your CV (**Please DO NOT send me a very long email!**).
 
 **Other PhD opportunities**
 
-- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) **is now closed**. 
-
-- [[QUEX joint PhD studentship]](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The project title is Development and evaluation of a digital human exercise coach. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
-
-- [[EPSRC DLA PhD studentships]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
-
-- [[University of Exeter PhD Scholarships for Black British Researchers]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
+- [[Aberdeen-CSC PhD studentship (Chinese students only)]](https://www.abdn.ac.uk/study/funding/348):  University of Aberdeen will waive the international tuition fees and the CSC will provide the living allowance. The application will open every year around October. Please note this is a two-step application.
+   -Step 1: You should first submit a full application (in English) to the University of Aberdeen. You have to get an unconditional offer before you place a CSC application to University of Aberdeen. The deadline for this step is usually in the early or middle of January.
+   -Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May. If you are successful in both steps, you will be awarded the full scholarship from CSC.
 
 - [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **is now closed**. 
 
@@ -48,14 +41,8 @@ If English is not your first language you will need to meet the English language
 Visiting Opportunities
 ----
 
-I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **<span style="color: red;">please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>** 
+I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student,  please email me your CV (**Please DO NOT send me a very long email!**).
 
-The fees for visiting students are as following:
-
-- 0-3 Months: £0
-- 3-6 Months: £550
-- 6-12 Months:  £1,150
-- 12-24 Months:   £2,300
 
 More details about the fees can be found [here](https://www.exeter.ac.uk/students/finance/studentfees/otherfees/).
 
