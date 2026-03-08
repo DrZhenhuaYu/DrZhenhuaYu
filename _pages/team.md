@@ -16,80 +16,43 @@ I have supervised and co-supervised students at various universities and continu
 
 
 ## **Current team**
+### PhD Students:
 <br />
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
 Xiao Ji  <br />
 Mrs  Bsc <br />
+The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+[[website]](https://danfergo.github.io/geltip/)
+<br />
+<br />
+<br />
+
+<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+Cong Liu  <br />
+Mrs  Bsc <br />
+The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+[[website]](https://danfergo.github.io/geltip/)
+<br />
+
+<br />
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+Zheng Ma  <br />
+Mrs  Bsc <br />
+The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 [[website]](https://danfergo.github.io/geltip/)
 <br />
 
 
-### University of Exeter:
+## **Research Assistant**
 
-At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**, where I supervise PhD, MSc, and undergraduate students.
-
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="height: 300px; width: auto;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
-</div>
-
-Research Fellow:
-
-- A Marie-Curie Postdoctoral Fellow will join my lab.
-
-
-PhD students (as primary supervisor):
-
-- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
-
-- Ning Wang. Co-supervisor: Prof. Xujiong Ye
-
-- [Quangao Liu](https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN). Co-supervisor: Prof. Lu Liu
-
-- Yanlong Meng. Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
-  
-PhD students (as co-supervisor):
-
-- Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
-
-
-BSc students:
-
-- Aditya Bhardwaj (Sep 2025 - )
-
-- Hivda Nasiroglu (Sep 2025 - )
-
-- Jason Chung (Sep 2025 - )
-
-- Oliver Johnson (Sep 2025 - )
-
-- Rahul Somani (Sep 2025 - )
-
-
-### Others:
-
-I am co-supervising some PhD and MSc students with my external collaborators.
 
 ## **Alumni**
-
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 
 ### Imperial College London:
 
 I was the primary supervisor of one MSc student in Applied Machine Learning at the Department of EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. Additionally, I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I supported one PhD student to enhance her academic and professional development.  
-
-- As the primary supervisor
-  
-  - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (MSc, **distinction**)
-    - Topic: Computer Vision-based Video Anonymisation for Privacy Protection
-    - Published one paper in IEEE Transactions on Intelligent Transportation Systems based on the MSc project
-    - Now a PhD student at the University of Exeter (fully funded by the university)  
-
-- As a mentor of Imperial’s Activate Student Mentoring Programme
-  
-  - [Sneha Jha](https://www.qub.ac.uk/schools/eeecs/Connect/Staff/BusinessCard/?name=s.jha) (PhD student)
-    - Now Research and Development Lead, AI Collaboration Centre (AICC),  Queen's University Belfast & Ulster University
 
 - As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
   
@@ -108,22 +71,6 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
     - Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces     
     - Now a Project Engineer at Kongsberg Defence & Aerospace
 
-### Shanghai Jiao Tong University
-
-- As the co-supervisor
-  
-  - [Ping Ye](https://www.researchgate.net/profile/Ping-Ye-6) (PhD student)
-	  - Topic: Object tracking, information fusion
-	  - Now a lecturer at Ningxia University, China
-  
-  - [Jun Liu](https://zxxy.suse.edu.cn/p/74/?StId=st_app_news_i_x637974583413820740) (graduate student)
-	  - Topic: Object tracking
-	  - Now a lecturer at Sichuan University of Science and Engineering, China
-  
-  - [Shengyun Peng](https://shengyun-peng.github.io/) (undergraduate student)
-	  - Topic: Computer vision, object tracking
-	  - Now a PhD student in Computer Science at **Georgia Institute of Technology**
-    
 ### University of Exeter:
 
 - MSc students
