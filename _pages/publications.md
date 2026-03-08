@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en). *indicates corresponding author
+For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=2qygvtQAAAAJ&view_op=list_works&sortby=pubdate). *indicates corresponding author
 <div style="border:1px solid #d9d9d9; border-radius:4px; margin-bottom:30px;">
 
 <div style="background:#8f979c; color:white; font-weight:bold; padding:12px 16px; text-transform:uppercase;">
@@ -101,6 +101,7 @@ ON THIS PAGE
 [2].Ying Chen, Zhen He, Ding Zhou, <b><u>Zhenhua Yu</u></b> , Shunli Li, “Integrated guidance and control for microsatellite real-time automated proximity operations”, Acta Astronautica, 2018.
 
 [1].Baolong Zhu, Zhiping Zhang, Mingliang Suo, <b><u>Zhenhua Yu</u></b> , Shunli Li, “Sampled-data H∞control for attitude stabilization and vibration suppression of flexible spacecrafts”, IEEE 2017 36th Chinese Control Conference (CCC), 2017.
+
 
 
 
