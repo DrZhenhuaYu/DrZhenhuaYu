@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Zhenhua Yu"
-  avatar           : "Xingchen Zhang.jpg"
+  avatar           : "Zhenhua Yu PhD.jpg"
   bio              : "Assistant Professor in Dept. CS @University of Aberdeen | Honorary Lecturer @ICL | PhD @ ICL | Robotics and AI for digital healthcare"
   location         : "University of Aberdeen"
   Aberdeen_website : "https://www.abdn.ac.uk/people/zhenhua.yu#about" 
-  employer         :
+  employer         :  "https://www.abdn.ac.uk/people/zhenhua.yu#about" 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=2qygvtQAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "zhenhua.yu@abdn.ac.uk"
