@@ -126,7 +126,7 @@ Research focuses on tactile sensing and robotic perception for dexterous manipul
 </div>
 
 ## **Alumni**
-My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
+My students have pursued diverse career paths: some have joined leading companies like Huawei and startup companies, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 
 ### Imperial College London:
 
