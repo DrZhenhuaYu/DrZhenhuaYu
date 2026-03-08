@@ -92,7 +92,7 @@ I have been fortunate to collaborate with a range of internal and external partn
 Contact
 -------
 
-- Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
-- Address: Department of Computer Science, University of Exeter, Exeter EX4 4RN
+- Email: zhenhua (dot) yu (at) abdn (dot) ac (dot) uk
+- Address: Department of Computer Science, University of Aberdeen,Aberdeen, AB24 3UE, UK
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-CywtQgKHbGRRCnc-YpbDfl5bc7oR80ZEIzATZjRRJA&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=D6nP4mYQMsAUj9Niiu6OfKQQKbRB5SptCEEbufGJaCQ&cl=ffffff&w=a"></script>
