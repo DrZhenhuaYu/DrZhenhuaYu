@@ -43,88 +43,42 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 <br />
 
 ## **Research Assistant**
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Boyang Zhao  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Zefeng Yuan  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Qinghao Yan  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Boyang Zhao</b><br>
+University of Aberdeen<br>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Xiao Ji  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Zefeng Yuan</b><br>
+University of Aberdeen<br>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Cong Liu  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Qinghao Yan</b><br>
+University of Aberdeen<br>
+<a href="https://danfergo.github.io/geltip/">Website</a>
+</div>
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Zheng Ma  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Xiao Ji  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
+<div>
+<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<br>
+<b>Another Student</b><br>
+University of Aberdeen<br>
+<a href="#">Website</a>
+</div>
 
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Cong Liu  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
-<br />
-<br />
-
-<br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Zheng Ma  <br />
-Mrs  Bsc <br />
-The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
-<br />
+</div>
 
 ## **Alumni**
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
