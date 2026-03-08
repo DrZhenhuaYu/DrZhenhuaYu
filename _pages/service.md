@@ -8,7 +8,8 @@ author_profile: true
 
 **Service at the University of Aberdeen**
 
-- Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Aberdeen
+- Postgraduate Research Leader in School of Natural and Computing Sciences, University of Aberdeen
+- Director of Intelligent Robotics Lab (Aberdeen,UK)
 
 
 **Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
@@ -28,12 +29,12 @@ author_profile: true
 
 - IEEE/ASME Trans. on Mechatronics,
   
-- - IEEE Robotics and Automation Letters
+- IEEE Robotics and Automation Letters
   
 - IEEE Transactions on Automation Science and Engineering,
-- 
+
 - IEEE Transactions on Industrial Informatics
-- 
+  
 - IEEE Transactions on Instrumentation & Measurement
 
 - IEEE Trans. on Control Systems Technology,
@@ -45,13 +46,12 @@ author_profile: true
 - Transportation Research Part C,
   
 - International Journal of Intelligent Robotics and Applications,
-- 
 
 
 **Reviewer for conferences (Selected)**
 
 - International Conference on Robotics: Science and Systems (RSS).
-- 
+  
 - International Conference on Robotics and Automation (ICRA) 
 
 - International Conference on Intelligent Robots and Systems (IROS)
