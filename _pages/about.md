@@ -19,18 +19,18 @@ Research interests
 --
 **My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity**. I am very interested in applying fusion intelligence in robot perception, medical data processing, and computer vision. Specifically, my research areas include
 
-- Multimodal Learning and Image Fusion     
-- Human-Centered Computer Vision  
-- Embodied Intelligence  
-- Trustworthy and Ethical AI  
-- AI for Healthcare  
+My research interests include:
 
-To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
+- Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
+- Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
+- Embedded AI and robotics perception and navigation in human-centric digital healthcare
+
+To know more about my research, please go to the  '[Research](https://drzhenhuayu.github.io//research/)' section.
 
 **Joining my Fusion Intelligence Laboratory**
 -------
 
-I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://xingchenzhang.github.io/opportunities/)' section.  
+I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://drzhenhuayu.github.io/opportunities/)' section.  
 
 - [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
 
