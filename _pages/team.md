@@ -81,6 +81,7 @@ Research interests include soft robotics and multimodal perception for intellige
 </div>
 
 </div>
+
 ## **Alumni**
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 
@@ -90,43 +91,22 @@ I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.
 
 - As the assistant supervisor (co-supervise with Prof. Ravi Vaidyanathan )
   
-  - [Zhigang Sun](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (MSc, **distinction**)
+  - [Zehao Liu](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (PhD student)
     
     - Topic: Visual Scene Understanding and Tracking from Traffic Cameras
     - Now a Research Engineer at Bosch Research
   
-  - [Victor Badoual](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (MEng)
+  - [Shibo Jing](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (PhD student)
     
     - Topic: Visual Scene Understanding and Tracking from Traffic Cameras  
     - Now a Software Engineer at **Google**
   
-  - [Tobias Hillier](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (MEng)
+  - [](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (PhD student)
     
     - Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces     
     - Now a Project Engineer at Kongsberg Defence & Aerospace
-
-### University of Exeter:
-
+      
 - MSc students
-
-	- Qinqing Li (November 2024 - Aug 2025): **Distinction, Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty)**
-
-	- Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
-
-	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
-
-	- Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
-
-	- Yuanhang Zhang (Mar 2025 - Aug 2025)
-
-	- Xuan Zhang (Mar 2025 - Aug 2025) 
-
-	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
-	
-	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
-
-	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
-	 
 
 - BSc students
 
