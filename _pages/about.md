@@ -57,10 +57,8 @@ My research has received funding and support from several funders, including the
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
     <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
-    <img src="/images/funders/marie-curie.jpg" alt="image1" style="height:150px; width:auto;">
   </div>
   <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="/images/funders/Exeter-Fudan.jpg" alt="image1" style="height:90px; width:auto;">
     <img src="/images/funders/quex.png" alt="image1" style="height:90px; width:auto;">
   </div>
 </div> -->
