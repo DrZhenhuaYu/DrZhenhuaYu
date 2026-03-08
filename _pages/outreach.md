@@ -8,9 +8,9 @@ author_profile: true
 
 **At University of Aberdeen**
 
-- 28th March 2026, Demo, Offer Holders Visit Day
+- 1st Oct 2025, Demo, Visit Day
 
 
 **At Imperial College London**
 
-- July 2023, 
+- July 2024, 
