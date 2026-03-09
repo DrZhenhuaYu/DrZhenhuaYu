@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 Cong Liu  <br />
 Mrs  Bsc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
+[[website]](https://drzhenhuayu.github.io//)
 <br />
 <br />
 <br />
@@ -29,7 +29,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 Zheng Ma  <br />
 Mrs  Bsc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
+[[website]](https://drzhenhuayu.github.io//)
 <br />
 <br />
 <br />
@@ -39,7 +39,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 Xiao Ji  <br />
 Mrs  Bsc <br />
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
-[[website]](https://danfergo.github.io/geltip/)
+[[website]](https://drzhenhuayu.github.io//)
 <br />
 
 <br />
@@ -54,7 +54,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -65,7 +65,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Working on wearable sensing systems and AI-enabled healthcare monitoring.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -76,7 +76,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research interests include soft robotics and multimodal perception for intelligent systems.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -87,7 +87,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -98,7 +98,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -109,7 +109,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 <div>
@@ -120,7 +120,7 @@ University of Aberdeen<br>
 <p style="font-size:14px;">
 Research focuses on tactile sensing and robotic perception for dexterous manipulation.
 </p>
-<a href="https://danfergo.github.io/geltip/">Website</a>
+<a href="https://drzhenhuayu.github.io//">Website</a>
 </div>
 
 </div>
