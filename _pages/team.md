@@ -15,40 +15,59 @@ I have supervised and co-supervised students at various universities and continu
 
 ## **Current team**
 ### PhD Students:
+<div>
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Cong Liu  <br />
-Mrs  Bsc <br /> <p>
+
+<b>Cong Liu</b><br />
+BSc Student<br />
+
+<p>
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
+
 <a href="https://drzhenhuayu.github.io/">Website</a> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
+
+<br clear="left"/>
 </div>
-<br />
-<br />
-<br />
 
 <br />
+
+
+<div>
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Zheng Ma  <br />
-Mrs  Bsc <br /><p>
+
+<b>Zheng Ma</b><br />
+BSc Student<br />
+
+<p>
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
+
 <a href="https://drzhenhuayu.github.io/">Website</a> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
+
+<br clear="left"/>
 </div>
-<br />
-<br />
-<br />
 
 <br />
+
+<div>
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
-Xiao Ji  <br />
-Mrs  Bsc <br /> <p>
+
+<b>Xiao Jin</b><br />
+BSc Student<br />
+
+<p>
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
+
 <a href="https://drzhenhuayu.github.io/">Website</a> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
+
+<br clear="left"/>
 </div>
+
 <br />
 
 <br />
