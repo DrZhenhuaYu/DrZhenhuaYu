@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
 
 <b>Cong Liu</b><br />
-BSc Student<br />
+BSc <br />
 
 <p>
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
@@ -56,8 +56,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
 
 <b>Xiao Jin</b><br />
-BSc Student<br />
-
+BSc, MSc in Imperial<br />
 <p>
 The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
 </p>
