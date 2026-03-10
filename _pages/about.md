@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="Z8CQPHt9tfvJJ81H5c9oWSM16L3cuax2pcsMlcd1yIg" />
 ### Bio
 
 Dr Zhenhua Yu is currently an Assistant Professor (Lecturer) in the Department of Computer Science, University of Aberdeen, UK. Dr Zhenhua Yu is also an honorary Lecturer in the Medical Engineering Department of Mechanical Engineering, Imperial College London. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
