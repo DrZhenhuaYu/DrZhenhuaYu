@@ -21,10 +21,11 @@ I have supervised and co-supervised students at various universities and continu
 <b>Cong Liu</b><br />
 BSc <br />
 
+<<!--
 <p>
 <<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
-
+-->
 <!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
 <a href="c.liu4.25@abdn.ac.uk">Email</a>
 
@@ -40,9 +41,11 @@ BSc <br />
 <b>Zheng Ma</b><br />
 BSc Student<br />
 
+<<!--
 <p>
 <<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
+-->
 
 <<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
 <a href="z.ma.25@abdn.ac.uk">Email</a>
@@ -57,9 +60,11 @@ BSc Student<br />
 
 <b>Xiao Jin</b><br />
 BSc, MSc in Imperial<br />
+<<!--
 <p>
 <<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
 </p>
+-->
 
 <a href="https://drzhenhuayu.github.io/">Website</a> |
 <a href="mailto:example@abdn.ac.uk">Email</a>
