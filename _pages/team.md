@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 </p>
 
 <div style="text-align:center; margin:30px 0;">
-  <img src="https://drzhenhuayu.github.io/images/people/Lab20260315Aberdeen.jpg"
+  <img src="https://raw.githubusercontent.com/DrZhenhuaYu/drzhenhuayu.github.io/main/images/people/Lab20260315Aberdeen.jpg">
        alt="Intelligent Robotics Laboratory"
        style="width:500px; max-width:100%; height:auto;">
 </div>
