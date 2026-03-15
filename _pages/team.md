@@ -14,67 +14,68 @@ I have supervised and co-supervised students at various universities and continu
 
 
 ## **Current team**
+
 ### PhD Students:
-<div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Liu Cong.jpg" alt="...">
-
-<b>Cong Liu</b><br />
-BSc <br />
-
-<<!--
-<p>
-<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
-</p>
--->
-<!-- <a href="https://drzhenhuayu.github.io/">Website</a> -->|
-<a href="c.liu4.25@abdn.ac.uk">Email</a>
-
-<br clear="left"/>
-</div>
-
-<br />
-
 
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Zheng Ma.JPG" alt="...">
+  <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Liu Cong.jpg" alt="Cong Liu">
 
-<b>Zheng Ma</b><br />
-BSc Student<br />
+  <b>Cong Liu</b><br />
+  BSc <br />
 
-<<!--
-<p>
-<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
-</p>
--->
+  <!--
+  <p>
+    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+  </p>
+  -->
 
-<<!-- <a href="https://drzhenhuayu.github.io/">Website</a> --> |
-<a href="z.ma.25@abdn.ac.uk">Email</a>
+  <a href="mailto:c.liu4.25@abdn.ac.uk">Email</a>
 
-<br clear="left"/>
+  <br clear="left"/>
 </div>
 
 <br />
 
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Jin Xiao.png" alt="...">
+  <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Zheng Ma.JPG" alt="Zheng Ma">
 
-<b>Xiao Jin</b><br />
-BSc, MSc in Imperial<br />
-<<!--
-<p>
-<<!--The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.-->
-</p>
--->
+  <b>Zheng Ma</b><br />
+  BSc Student<br />
 
-<a href="https://drzhenhuayu.github.io/">Website</a> |
-<a href="mailto:example@abdn.ac.uk">Email</a>
+  <!--
+  <p>
+    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+  </p>
+  -->
 
-<br clear="left"/>
+  <a href="mailto:z.ma.25@abdn.ac.uk">Email</a>
+
+  <br clear="left"/>
 </div>
 
 <br />
 
+<div>
+  <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Jin Xiao.png" alt="Xiao Jin">
+
+  <b>Xiao Jin</b><br />
+  BSc, MSc in Imperial<br />
+
+  <!--
+  <p>
+    The aim of our research group is to develop a hybrid intelligent robotics and wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization.
+  </p>
+  -->
+
+  <a href="https://drzhenhuayu.github.io/">Website</a> |
+  <a href="mailto:example@abdn.ac.uk">Email</a>
+
+  <br clear="left"/>
+</div>
+
 <br />
+<br />
+
 ## **Research Assistant**
 
 <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:40px 30px; text-align:center; align-items:start;">
@@ -85,10 +86,8 @@ BSc, MSc in Imperial<br />
       <b>Boyang Zhao</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
-    <a href="francis20060728@gmail.com">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:francis20060728@gmail.com">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -97,10 +96,8 @@ BSc, MSc in Imperial<br />
       <b>Zefeng Yuan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      Working on wearable sensing systems and AI-enabled healthcare monitoring.
-    </p>
-    <a href="z.yuan1.24@abdn.ac.uk">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:z.yuan1.24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -109,10 +106,8 @@ BSc, MSc in Imperial<br />
       <b>Qinghao Yan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
-    <a href="u01qy24@abdn.ac.uk">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:u01qy24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -121,9 +116,7 @@ BSc, MSc in Imperial<br />
       <b>Yixian Fan</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-      <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
     <a href="mailto:fyxfyxals@qq.com">Email</a>
   </div>
 
@@ -133,10 +126,8 @@ BSc, MSc in Imperial<br />
       <b>Yixuan Ye</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
-    <a href="y.ye.24@abdn.ac.uk">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:y.ye.24@abdn.ac.uk">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -145,10 +136,8 @@ BSc, MSc in Imperial<br />
       <b>Zhuofan Li</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
-    <a href="1439614452@qq.com">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:1439614452@qq.com">Email</a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
@@ -157,13 +146,10 @@ BSc, MSc in Imperial<br />
       <b>Siqi Ding</b><br>
       University of Aberdeen
     </div>
-    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;">
-       <<!-- Research focuses on tactile sensing and robotic perception for dexterous manipulation.-->
-    </p>
-    <a href="1526041942@qq.com">Email</a>
+    <p style="font-size:14px; line-height:1.6; max-width:260px; min-height:70px; margin:12px 0 10px 0;"></p>
+    <a href="mailto:1526041942@qq.com">Email</a>
   </div>
 
-</div>
 </div>
 
 ## **Alumni**
