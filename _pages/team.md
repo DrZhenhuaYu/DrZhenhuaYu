@@ -16,7 +16,7 @@ I have supervised and co-supervised students at various universities and continu
 ## **Current team**
 ### PhD Students:
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Liu Cong.jpg" alt="...">
 
 <b>Cong Liu</b><br />
 BSc <br />
@@ -35,7 +35,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 
 
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Zheng Ma.jpg" alt="...">
 
 <b>Zheng Ma</b><br />
 BSc Student<br />
@@ -53,7 +53,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 <br />
 
 <div>
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Ning.jpg" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/people/Jin Xiao.png" alt="...">
 
 <b>Xiao Jin</b><br />
 BSc, MSc in Imperial<br />
@@ -74,7 +74,7 @@ The aim of our research group is to develop a hybrid intelligent robotics and we
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; text-align: center;">
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Zhao Boyang.jpg">
 <br>
 <b>Boyang Zhao</b><br>
 University of Aberdeen<br>
@@ -86,7 +86,7 @@ Research focuses on tactile sensing and robotic perception for dexterous manipul
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Yuan Zefeng.jpg">
 <br>
 <b>Zefeng Yuan</b><br>
 University of Aberdeen<br>
@@ -98,7 +98,7 @@ Working on wearable sensing systems and AI-enabled healthcare monitoring.
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Yan Qinghao.jpg">
 <br>
 <b>Qinghao Yan</b><br>
 University of Aberdeen<br>
@@ -110,7 +110,7 @@ Research interests include soft robotics and multimodal perception for intellige
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Fan Yixian.jpg">
 <br>
 <b>Yixian Fan</b><br>
 University of Aberdeen<br>
@@ -122,7 +122,7 @@ Research focuses on tactile sensing and robotic perception for dexterous manipul
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Ye Yixuan.jpg">
 <br>
 <b>Yixuan Ye</b><br>
 University of Aberdeen<br>
@@ -134,7 +134,7 @@ Research focuses on tactile sensing and robotic perception for dexterous manipul
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Li Zhuofan.jpg">
 <br>
 <b>Zhuofan Li</b><br>
 University of Aberdeen<br>
@@ -146,7 +146,7 @@ Research focuses on tactile sensing and robotic perception for dexterous manipul
 </div>
 
 <div>
-<img width="180" src="{{ site.url }}/images/people/Ning.jpg">
+<img width="180" src="{{ site.url }}/images/people/Ding Siqi.jpg">
 <br>
 <b>Siqi Ding</b><br>
 University of Aberdeen<br>
