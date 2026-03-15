@@ -14,6 +14,15 @@ I have supervised and co-supervised students at various universities and continu
 
 
 ## **Current team**
+<p>
+  At the University of Aberdeen, I lead the <b>Intelligent Robotics Laboratory</b>, where I work with PhD, MSc, and undergraduate students on research in robotics, AI, and intelligent systems.
+</p>
+
+<div style="text-align:center; margin:30px 0;">
+  <img src="{{ site.url }}/images/team/Lab20260315Aberdeen.jpg"
+       alt="Intelligent Robotics Laboratory"
+       style="width:500px; max-width:100%; height:auto;">
+</div>
 
 ### PhD Students:
 
