@@ -150,7 +150,7 @@ I have supervised and co-supervised students at various universities and continu
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/Ding%20Siqi.JPG" alt="Siqi Ding" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <img src="https://drzhenhuayu.github.io/images/people/Ding%20Siqi.jpg" alt="Siqi Ding" style="width:180px; height:240px; object-fit:cover; display:block;">
     <div style="margin-top:12px;">
       <b>Siqi Ding</b><br>
       University of Aberdeen
@@ -160,7 +160,7 @@ I have supervised and co-supervised students at various universities and continu
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://drzhenhuayu.github.io/images/people/DaiJiayue.jpg" alt="Jiayue Dai" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <img src="https://drzhenhuayu.github.io/images/people/DaiJiayue.JPG" alt="Jiayue Dai" style="width:180px; height:240px; object-fit:cover; display:block;">
     <div style="margin-top:12px;">
       <b>Jiayue Dai</b><br>
       University of Aberdeen
