@@ -159,6 +159,15 @@ I have supervised and co-supervised students at various universities and continu
     <a href="mailto:1526041942@qq.com">Email</a>
   </div>
 
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="https://drzhenhuayu.github.io/images/people/DaiJiayue.jpg" alt="Siqi Ding" style="width:180px; height:240px; object-fit:cover; display:block;">
+    <div style="margin-top:12px;">
+      <b>Jaiyue Dai</b><br>
+      University of Aberdeen
+    </div>
+    <div style="height:8px;"></div>
+    <a href="mailto:196656714@qq.com">Email</a>
+  </div>
 </div>
 
 ## **Alumni**
